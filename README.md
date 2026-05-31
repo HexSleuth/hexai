@@ -1,0 +1,1 @@
+HEX AI Studio Webview.apk •  Setup API keys in Settings  • Upload images/PDFs for analysis  • Animated 🫵😎 Emojis  • Ai Generate images & animated videos with out API keys  •GTranslate  • Music player with Audio visualizer    • Voice input supported
